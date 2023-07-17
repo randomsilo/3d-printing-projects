@@ -40,7 +40,7 @@ The _Brass Catcher_ is a hinged plate that is secured to the magazine housing fa
 ---
 
 _Chamber Flag_ is a mock 5.56 round that visually signals the chamber is empty.
-The width of the flag is not enough to leave the spring under pressure os it won't have any negative effects on long term storage.
+The width of the flag is not enough to leave the spring under pressure so it won't have any negative effects on long term storage.
 
 
 ---
@@ -69,7 +69,7 @@ Some tactical lights are hundreds of dollars which is fine when outfitting a sin
 The Handle Toolbox fits with the empty space of a MOE (Magpul) handle.
 A small toolbox holds 2 CR2032 for the red dot sight recommended above and 2 14250 batteries for the laser.  As a bonus the allen wrenches used to adjust the red dot sight and laser slide into the base of the toolbox.
 
-The toolbox is tapered in a way that allows it to slide into the reliefs of the handles bottom plate.
+The toolbox is tapered in a way that allows it to slide into the reliefs of the handle's bottom plate.
 
 <img src="./images/toolbox.jpg" width="400"/>
 
